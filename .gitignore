@@ -1,7 +1,8 @@
 # Compiled class file
 .allure/
 target/
-.idea
+idea/
+.idea/workspace.xml
 *.class
 
 # Log file
